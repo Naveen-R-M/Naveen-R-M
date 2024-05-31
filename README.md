@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **LangChain🦜🔗 | Flutter | Django | React | Express | JavaScript**
 
-- 📫 How to reach me **naveen.rm.551@gmail.com | linkedin.com/in/naveen-rm/**
+- 📫 How to reach me **naveen.rm.551@gmail.com | [linkedin.com/in/naveen-rm/](https://www.linkedin.com/in/naveen-rm/)**
 
 - ⚡ Fun fact **As "Naveen" means new in Sanskrit, I'm always bringing something new to the table—especially new features that come with their own set of new bugs! 🐞🚀**
 
