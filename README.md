@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVyOTQ2cjJjZW5iNWlzOXl1YjU1ZHh0eGI2MGM0c20xazU2bzJ0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0BKpqAaJczduXXJ6/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Naveen Rajagopal Mohanraj</h1>
 <h3 align="center">A supercalifragilisticexpialidocious person 🖥️ endeavoring to solve real-world problems using technology ⛷️!</h3>
 
