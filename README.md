@@ -1,7 +1,7 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVyOTQ2cjJjZW5iNWlzOXl1YjU1ZHh0eGI2MGM0c20xazU2bzJ0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0BKpqAaJczduXXJ6/giphy.gif" width="100"/>
-</div>
 <h1 align="center">Hi 👋, I'm Naveen Rajagopal Mohanraj</h1>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVyOTQ2cjJjZW5iNWlzOXl1YjU1ZHh0eGI2MGM0c20xazU2bzJ0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0BKpqAaJczduXXJ6/giphy.gif" />
+</div>
 <h3 align="center">A supercalifragilisticexpialidocious person 🖥️ endeavoring to solve real-world problems using technology ⛷️!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-r-m&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-r-m" /> </p>
